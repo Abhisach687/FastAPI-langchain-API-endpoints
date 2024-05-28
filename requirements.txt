@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-api-python-client
+google-auth
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+python-multipart
+PyPDF2
+langchain_openai
