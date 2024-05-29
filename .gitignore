@@ -2,3 +2,5 @@
 /temp
 /venv
 /__pycache__
+/faiss_index
+/ignore
